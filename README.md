@@ -14,7 +14,7 @@ This project demonstrates an end-to-end real-time data pipeline designed to perf
 - **Kafka Producer (Kaggle Notebook):** Streams YELP data in real-time from a CSV file.
 - **Apache Spark Structured Streaming:** Processes and transforms data in real-time using Spark.
 - **MongoDB Atlas:** Serves as an intermediary storage layer for holding processed data.
-- **Confluent Kafka: Manages data ingestion and stream processing.
+- **Confluent Kafka:** Manages data ingestion and stream processing.
 - **HuggingFace Sentiment Model:** DistilBERT base uncased finetuned SST-2 performs sentiment analysis on the reviews.
 - **Elasticsearch:** Stores and indexes the data for efficient search and visualization.
 - **Kibana:** Provides real-time visualization dashboards for exploring processed data.
